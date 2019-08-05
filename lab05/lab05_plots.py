@@ -108,16 +108,20 @@ def part_3_plot_4():
 
     plt.subplot(221)
     plt.hist(hybrid.column("mpg"), bins=5)
+    plt.xlabel("MPG")
     plt.title("Plot A")
 
     plt.subplot(222)
     plt.hist(hybrid.column("mpg"), bins=10)
+    plt.xlabel("MPG")
     plt.title("Plot B")
 
     plt.subplot(223)
     plt.hist(hybrid.column("mpg"), bins=15)
+    plt.xlabel("MPG")
     plt.title("Plot C")
 
     plt.subplot(224)
     plt.hist(hybrid.column("mpg"), bins=20)
+    plt.xlabel("MPG")
     plt.title("Plot D");
