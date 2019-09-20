@@ -4,4 +4,7 @@
 [![Launch Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=SW-282&branch=master&path=.)
 
 
+**Professor:** Dr. Erin Kerrison
+
+
 **Developer:** Chris Pyles
